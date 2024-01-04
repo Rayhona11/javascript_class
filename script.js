@@ -39,7 +39,27 @@ console.log(typeof isTrue);
 
 //? Object
 
-let shaxzod ={
-    
+let person ={
+   name:"Shaxzod",
+   age:25,
+   weight:100,
+   height:1.80,
 }
+
+let phone ={
+   model: "iphone",
+   Color:"red",
+   weight:200,
+}
+
+// Object
+//? Array
+
+let arr = [1,5,7,3,6,8]
+
+console.log(typeof arr);
+
+// console.log(person.wight+ "kg");
+//console.log(5*5);
+//document.body.innerHTML = firstNumber
 
