@@ -96,7 +96,7 @@ console.log(typeof arr);
 
   console.log(div);
 
-  // ?Qoldiqli bo`lish
+  // ? Qoldiqli bo`lish
 
   console.log(45 % b);
   let d = 30;
@@ -114,7 +114,7 @@ let x =20;
 //==
 //===
 
-// ?emas manosid keladi 
+// ?emas manosida keladi 
 
 console.log(z < x);
 console.log(z !==x);
@@ -123,3 +123,4 @@ console.log(z !==x);
 console.log(z**3);
 
 
+console.log("Rayhona");
