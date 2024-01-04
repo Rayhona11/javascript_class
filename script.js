@@ -64,6 +64,8 @@ console.log(typeof arr);
 //document.body.innerHTML = firstNumber
 
 
+
+  // ?Operators
   //? Operatorlar
 
   let a = 30;
