@@ -53,6 +53,7 @@ let phone ={
 }
 
 // Object
+
 //? Array
 
 let arr = [1,5,7,3,6,8]
@@ -124,5 +125,3 @@ console.log(z !==x);
 // ? Darajaga kutarish
 console.log(z**3);
 
-
-console.log("Rayhona");
