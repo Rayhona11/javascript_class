@@ -52,6 +52,7 @@ let phone ={
    weight:200,
 }
 
+console.log("model");
 // Object
 
 //? Array
@@ -60,7 +61,7 @@ let arr = [1,5,7,3,6,8]
 
 console.log(typeof arr);
 
-// console.log(person.wight+ "kg");
+// console.log(person.weight+ "kg");
 //console.log(5*5);
 //document.body.innerHTML = firstNumber
 
